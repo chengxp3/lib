@@ -1,0 +1,32 @@
+{
+  "name": "lib",
+  "version": "0.0.1",
+  "description": "A JavaScript Common Library",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://chengxp3@github.com/chengxp3/lib.git"
+  },
+  "keywords": [
+    "js",
+    "lib"
+  ],
+  "author": {
+    "name":"jack.cheng",
+    "email":"chengxp3@163.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengxp3/lib/issues"
+  },
+  "homepage": "https://github.com/chengxp3/lib#readme",
+  "dependencies": {
+    "chart.js": "^2.2.0",
+    "echarts": "^3.2.2",
+    "lrz": "^4.9.36",
+    "vue-form": "^0.3.1",
+    "vue-lazyload": "^0.4.3"
+  }
+}

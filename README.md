@@ -15,6 +15,9 @@ Android 和 iOS 有兼容问题：
 ###echarts
 百度官方出品，比较大，偏PC端处理，Android 渲染有问题 [项目地址](https://github.com/ecomfe/echarts)
 
+###vconsole
+移动端调试工具，可以console.log 以及查看http请求,好像是微信团队出的 [项目地址](https://github.com/WechatFE/vConsole)
+
 ##Vue专用
 
 ### vue-form
